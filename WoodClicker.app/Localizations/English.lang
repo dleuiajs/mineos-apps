@@ -1,0 +1,38 @@
+{
+  click = "Chop",
+  sound = "Sound",
+  apply = "Apply",
+  trade = "Trade",
+  products = "Products",
+  
+  game = "Game",
+  inventory = "Inventory",
+  shop = "Shop",
+  settings = "Settings",
+  
+  upgradeClick = "Axe Upgrade",
+  autoClick = "Lumberjack Robot",
+  ----------------------------------------------------------------------------
+  greeting = "Hello, ",
+  clicksHave = "You have ",
+  currency = " wood",
+  diamonds = " diamonds",
+  diamondsAbbriv = " diam.",
+  errorShop = "Not enough ",
+  get = "You get ",
+  give = "You give ",
+  tradeError1 = "You need to select at least 1 diamond to trade",
+  tradeError2 = "You don't have enough wood",
+  autoClickTextGet = "The lumberjack robot brought ",
+  
+  haveClicks = "Wood: ",
+  haveDiamonds = "Diamonds: ",
+  haveAutoClicks = "Lumberjack Robots: ",
+  
+  axe = "Axe",
+  lvl = "Level",
+  
+  price = " (Price: ",
+
+  dev = "developer"
+}
