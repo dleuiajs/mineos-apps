@@ -268,23 +268,6 @@ end
 
 --------------------------------------------------------------------------------
 
--- Customize MineOS menu for this application by your will
-local contextMenu = menu:addContextMenuItem("File")
-contextMenu:addItem("New")
-contextMenu:addSeparator()
-contextMenu:addItem("Open")
-contextMenu:addItem("Save", true)
-contextMenu:addItem("Save as")
-contextMenu:addSeparator()
-contextMenu:addItem("Close").onTouch = function()
-  window:remove()
-end
-
--- You can also add items without context menu
-menu:addItem("Example item").onTouch = function()
-  GUI.alert("It works!")
-end
-
 -- Create callback function with resizing rules when window changes its' size
 window.onResize = function(newWidth, newHeight)
   window.backgroundPanel.width, window.backgroundPanel.height = newWidth, newHeight
