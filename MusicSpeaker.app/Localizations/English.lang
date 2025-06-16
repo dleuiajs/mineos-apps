@@ -1,0 +1,6 @@
+{
+  play = "Play",
+  fileError = "File loading error",
+  selectSongError = "Please select a song from the list first!"
+}
+

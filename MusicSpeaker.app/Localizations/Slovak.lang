@@ -1,0 +1,6 @@
+{
+  play = "Počúvať",
+  fileError = "Chyba pri načítaní súboru",
+  selectSongError = "Najprv vyberte pieseň zo zoznamu!"
+}
+
