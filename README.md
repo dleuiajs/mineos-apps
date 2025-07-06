@@ -10,7 +10,7 @@ You can download these applications directly through the App Market in MineOS.
 3. Search for the desired application by name.
 4. Click **Install**.
 
-### 📁 Method 2: Manual Installation
+### Method 2: Manual Installation
 1. Open your Minecraft folder.
    - On Windows: `C:\Users\<YourName>\AppData\Roaming\.minecraft`
    - On Linux: `~/.minecraft`
@@ -21,14 +21,11 @@ You can download these applications directly through the App Market in MineOS.
 4. Restart the computer in-game or refresh the App List in MineOS.
 
 ## Applications
-
 - [MusicSpeaker.app](./MusicSpeaker.app)
 A music player for MineOS that plays melodies through OpenComputers speakers.
----
 
 - [WoodClicker.app](./WoodClicker.app)
 A fun clicker game where you collect wood by clicking!
----
 
 ## Useful Links
 - [MineOS](https://github.com/IgorTimofeev/MineOS)
