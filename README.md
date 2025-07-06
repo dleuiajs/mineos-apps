@@ -22,14 +22,14 @@ You can download these applications directly through the App Market in MineOS.
 
 ## Applications
 
-### [MusicSpeaker.app](./MusicSpeaker.app)
+- [MusicSpeaker.app](./MusicSpeaker.app)
 A music player for MineOS that plays melodies through OpenComputers speakers.
 ---
 
-### [WoodClicker.app](./WoodClicker.app)
+- [WoodClicker.app](./WoodClicker.app)
 A fun clicker game where you collect wood by clicking!
 ---
 
 ## Useful Links
-- [MineOS]: https://github.com/IgorTimofeev/MineOS  
-- [OpenComputers]: https://github.com/MightyPirates/OpenComputers
+- [MineOS](https://github.com/IgorTimofeev/MineOS)
+- [OpenComputers](https://github.com/MightyPirates/OpenComputers)
